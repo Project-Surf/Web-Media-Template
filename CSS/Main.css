@@ -11,3 +11,12 @@ right: 60%;
 
 
 }
+
+#Greeting {
+                font-size: 38px;
+                position: absolute;
+                top:63%;
+                bottom: 50%;
+                left: 27%;
+                color: white;
+}
