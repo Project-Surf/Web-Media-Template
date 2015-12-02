@@ -1,5 +1,6 @@
 .html,body{
 background-color: grey;
+margin:0px;
 }
 
 #Clock {
@@ -19,4 +20,13 @@ right: 60%;
                 bottom: 50%;
                 left: 27%;
                 color: white;
+}
+
+#Menu {
+    position: absolute;
+    height: 1500px;
+    width: 100%;
+    max-width: 100%;
+    bottom: 0%;
+    top: 79%;
 }
