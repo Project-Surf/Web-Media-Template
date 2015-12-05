@@ -1,5 +1,5 @@
 .html,body{
-background-color: grey;
+background-color: darkred;
 margin:0px;
 }
 
@@ -30,3 +30,86 @@ right: 60%;
     bottom: 0%;
     top: 79%;
 }
+
+#DataBase {
+    max-height: 15%;
+    min-height: 15%;
+    position: absolute;
+    width:100px;
+    height:100px;
+    top: 84.5%;
+    left: 16%;
+}
+
+
+
+
+#Music {
+    max-height: 15%;
+    min-height: 15%;
+    position: absolute;
+    width:100px;
+    height:100px;
+    top: 83%;
+    left: 24%;
+}
+
+
+#Game{
+    max-height: 15%;
+    min-height: 16%;
+    bottom: 1.5%;
+    position: absolute;
+    width:100px;
+    height:100px;
+    left: 32%;
+    margin-left: 1%;
+}
+    
+
+#TV {
+    max-height: 15%;
+    min-height: 15%;
+    position: absolute;
+    width:100px;
+    height:100px;
+    bottom:1.5%;
+    left: 40%;
+    margin-left: 2%;
+    
+}
+
+#Book {
+    max-height: 15%;
+    min-height: 15%;
+    position: absolute;
+    width:100px;
+    height:100px;
+    bottom:1%;
+    left: 48%;
+    margin-left: 3%;
+}
+   
+#Apps {
+    max-height: 15%;
+     min-height: 15%;
+position:absolute;
+    width:100px;
+    height:100px;
+    bottom: 2.5%;
+    left: 57%;
+    margin-left: 3%;
+}
+
+#Dev {
+    max-height: 15%;
+     min-height: 15%;
+position:absolute;
+    width:100px;
+    height:100px;
+    bottom: 0.6%;
+    left: 65%;
+    margin-left: 3%;
+}
+
+
