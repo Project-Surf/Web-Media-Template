@@ -4,9 +4,8 @@ Glad to see you have some interest in the open source web design. This project i
 
 List of elements made by others used in the page.....
 
-1. Basic red clock by www.TimeAndDate.com
-
-
+1. Basic red clock by --- ( www.TimeAndDate.com ).
+2. Open source material design icons from Google Design --- ( https://www.google.com/design/icons/ ).
 
 
 Have any issues or questions with the project design. Please contact me at jacobmuncy0@gmail.com
