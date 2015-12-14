@@ -113,3 +113,527 @@ position:absolute;
 }
 
 
+@media only screen and (max-width: 1026px) {
+    #User {
+height: 100px;
+    width: 100px;
+
+}
+
+
+
+#Clock {
+                position: absolute;
+                top: 18%;
+                left: 35%; 
+                right: 60%;
+                bottom: -5%
+}
+
+
+#Greeting {
+                font-size: 30px;
+                position: absolute;
+                top:66%;
+                bottom: 55%;
+                left: 3%;
+                color: white;
+}
+
+
+
+#MiddlePic {
+    
+    
+}
+
+
+
+
+#Menu {
+    position: absolute;
+    height: 1500px;
+    width: 100%;
+    max-width: 100%;
+    bottom: 0%;
+    top: 79%;
+}
+
+#DataBase {
+    max-height: 15%;
+    min-height: 15%;
+    position: absolute;
+    width:90px;
+    height:90px;
+    top: 84.5%;
+    left: 2%;
+}
+
+
+
+
+#Music {
+    max-height: 15%;
+    min-height: 15%;
+    position: absolute;
+    width:90px;
+    height:90px;
+    top: 83%;
+    left: 10%;
+}
+
+
+#Game{
+    max-height: 15%;
+    min-height: 16%;
+    bottom: 3%;
+    position: absolute;
+    width:90px;
+    height:90px;
+    left: 19%;
+    margin-left: 1%;
+}
+    
+
+#TV {
+    max-height: 15%;
+    min-height: 15%;
+    position: absolute;
+    width:90px;
+    height:90px;
+    bottom:1.5%;
+    left: 27%;
+    margin-left: 2%;
+    
+}
+
+#Book {
+    max-height: 15%;
+    min-height: 15%;
+    position: absolute;
+    width:90px;
+    height:90px;
+    bottom:1%;
+    left: 35%;
+    margin-left: 3%;
+}
+   
+#Apps {
+    max-height: 15%;
+     min-height: 15%;
+position:absolute;
+    width:90px;
+    height:90px;
+    bottom: 2.5%;
+    left: 43%;
+    margin-left: 3%;
+}
+
+#Dev {
+    max-height: 15%;
+     min-height: 15%;
+position:absolute;
+    width:90px;
+    height:90px;
+    bottom: 0.5%;
+    left: 51%;
+    margin-left: 3%;
+}
+
+#MobileDataBase {
+  visibility:hidden;
+
+}
+ 
+#MobileGreeting {
+  visibility:hidden;
+    }
+    
+    
+    
+
+
+}
+
+
+
+@media only screen and (max-width: 906px) {
+    #User {
+height: 100px;
+    width: 100px;
+
+}
+
+
+
+#Clock {
+                position: absolute;
+                top: 18%;
+                left: 35%; 
+                right: 60%;
+                bottom: -5%
+}
+
+
+#Greeting {
+                font-size: 30px;
+                position: absolute;
+                top:66%;
+                bottom: 55%;
+                left: 3%;
+                color: white;
+}
+
+
+
+#MiddlePic {
+    
+    
+}
+
+
+
+
+#Menu {
+    position: absolute;
+    height: 1500px;
+    width: 100%;
+    max-width: 100%;
+    bottom: 0%;
+    top: 79%;
+}
+
+#DataBase {
+    max-height: 15%;
+    min-height: 15%;
+    position: absolute;
+    width:90px;
+    height:90px;
+    top: 84.5%;
+    left: 1%;
+}
+
+
+
+
+#Music {
+    max-height: 15%;
+    min-height: 15%;
+    position: absolute;
+    width:90px;
+    height:90px;
+    top: 83%;
+    left: 14%;
+}
+
+
+#Game{
+    max-height: 15%;
+    min-height: 16%;
+    bottom: 3%;
+    position: absolute;
+    width:90px;
+    height:90px;
+    left: 27%;
+    margin-left: 1%;
+}
+    
+
+#TV {
+    max-height: 15%;
+    min-height: 15%;
+    position: absolute;
+    width:90px;
+    height:90px;
+    bottom:1.5%;
+    left: 42%;
+    margin-left: 2%;
+    
+}
+
+#Book {
+    max-height: 15%;
+    min-height: 15%;
+    position: absolute;
+    width:90px;
+    height:90px;
+    bottom:1%;
+    left: 55%;
+    margin-left: 3%;
+}
+   
+#Apps {
+    max-height: 15%;
+     min-height: 15%;
+position:absolute;
+    width:90px;
+    height:90px;
+    bottom: 2.5%;
+    left: 69%;
+    margin-left: 3%;
+}
+
+#Dev {
+    max-height: 15%;
+     min-height: 15%;
+position:absolute;
+    width:90px;
+    height:90px;
+    bottom: 0.5%;
+    left: 83%;
+    margin-left: 3%;
+}
+
+#MobileDataBase {
+    visibility:none;
+
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-device-width: 480px) {
+	
+    
+    html,body{
+        overflow-y: visible;
+    }
+    
+    
+    
+    
+	    #User {
+height: 300px;
+    width: 300px;
+
+}
+    
+
+
+#Clock {
+                visibility: hidden;
+                position: absolute;
+                top: 18%;
+                left: 40%; 
+                right: 60%;
+                bottom: -5%
+}
+
+
+#Greeting {
+	
+	   visibility:hidden;
+              
+}
+
+#MobileGreeting {
+visibility:visible;
+font-size:120px;
+position:absolute;
+top:800px;
+left:11.5%;
+color:white;
+}
+
+
+#MiddlePic {
+    
+    
+}
+
+
+
+
+#Menu {
+    position: absolute;
+    width: 96%;
+    height: 1500px;
+    bottom: 0%;
+    top: 1100px;
+}
+
+#DataBase {
+	display:none;
+    position: absolute;
+    width:50%;
+    top: 84.5%;
+    left: 2%;
+}
+
+
+
+
+#Music {
+	display:none;
+    position: absolute;
+    height: 55%;
+    width: 50%;
+    top: 103%;
+    left: 30%;
+}
+
+
+#Game{
+    display:none;
+    max-height: 15%;
+    min-height: 16%;
+    top: 119%;
+    position: absolute;
+    width: 30%;
+    left: 19%;
+    margin-left: 1%;
+}
+    
+
+#TV {
+	display:none;
+    max-height: 15%;
+    min-height: 15%;
+    position: absolute;
+    top:140%;
+    left: 27%;
+    margin-left: 2%;
+    
+}
+
+#Book {
+	display:none;
+    max-height: 15%;
+    min-height: 15%;
+    position: absolute;
+    top:170%;
+    left: 35%;
+    margin-left: 3%;
+}
+   
+#Apps {
+	display:none;
+    max-height: 15%;
+     min-height: 15%;
+position:absolute;
+    top: 205%;
+    left: 43%;
+    margin-left: 3%;
+}
+
+#Dev {
+	display:none;
+    max-height: 15%;
+     min-height: 15%;
+position:absolute;
+   top: 240%;
+    left: 51%;
+    margin-left: 3%;
+}
+
+    
+    
+    
+    
+    
+#MobileDataBase {
+	background-color:white;
+	color:black;
+	font-size:100px;
+visibility:visible;
+position:absolute;
+top:1004.9px;
+height:270px;
+width:100%;
+}
+
+#MobileMusic {
+	background-color:black;
+	color:white;
+	font-size:100px;
+visibility:visible;
+position:absolute;
+top:1272.9px;
+height:270px;
+width:100%;
+}
+
+
+#MobileVideo {
+	background-color:white;
+	font-size:100px;
+visibility:visible;
+position:absolute;
+top:1540.9px;
+height:270px;
+width:100%;
+}
+
+#MobileGames {
+	background-color:black;
+	color:white;
+	font-size:100px;
+visibility:visible;
+position:absolute;
+top:1808.9px;
+height:270px;
+width:100%;
+}
+
+
+#MobileBooks {
+	background-color:white;
+	color:black;
+	font-size:100px;
+visibility:visible;
+position:absolute;
+top:2076.9px;
+height:270px;
+width:100%;
+}
+
+#MobileDev {
+	background-color:black;
+	color:white;
+	font-size:100px;
+visibility:visible;
+position:absolute;
+top:2344.9px;
+height:270px;
+width:100%;
+}
+
+
+#MobileSettings {
+	background-color:white;
+	color:black;
+	font-size:100px;
+visibility:visible;
+position:absolute;
+top:2612.9px;
+height:250px;
+width:100%;
+}
+
+
+
+
+		}
+
